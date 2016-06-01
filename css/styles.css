@@ -23,8 +23,10 @@ h1.header{
 }
 
 .results {
-  margin: 10% auto;
+  margin: 5% auto;
   text-align: center;
+  display: none;
+
 }
 
 img {
