@@ -1,0 +1,61 @@
+@import url(http://db.onlinewebfonts.com/c/693adf071e2ac2688a314e18d8aba074?family=Tribeca);
+
+h1.header{
+  text-align: center;
+  background: linear-gradient(rgba(0,110,0,.5),rgba(255,255,255,.5));
+  margin: auto;
+  color: white;
+  padding: 5px 0 8px;
+  text-shadow: 1px 1px grey;
+
+}
+
+.row{
+  margin: auto;
+}
+
+.form-row {
+  padding: 8px 0;
+}
+
+#bear, #dolphin, #cat {
+  display: none;
+}
+
+.results {
+  margin: 10% auto;
+  text-align: center;
+}
+
+img {
+  width:50%;
+}
+
+
+.sub-row{
+  text-align: center;
+  padding: 15px 0px;
+
+
+}
+
+.jumbotron {
+  background-image: url("../img/waterfall.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.survey {
+  background-image: url("../img/flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90%;
+  margin: auto;
+}
+.jumbotron h1{
+  color: darkgreen;
+  text-shadow: 2px 2px gold;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: tribeca;
+}
